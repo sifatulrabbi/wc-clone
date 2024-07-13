@@ -1,0 +1,4 @@
+one-billion-rows.txt
+build
+.env
+*.logs
